@@ -14,9 +14,10 @@ A setTimeout function is used so that after every 10 messages the script waits f
 Need to implement fucntions for performing all operations on WhatsApp Web. Thus it can be automated.
 Fucntions like `send_message(content)` need to be implemented for sending messages. The current implementaion contains the code for this function
 Planning to implement the following functions:
-1.`select_contact(name)` for selecting a contact from the list. `send_message(content)` can be called after this fucntion to send message to that contact
-2.`create_group(name)` for creating a new group. Members can be added after this function call.
-3.More fucntions need to follow for performing other fucntions.
+
+1. `select_contact(name)` for selecting a contact from the list. `send_message(content)` can be called after this fucntion to send message to that contact
+2. `create_group(name)` for creating a new group. Members can be added after this function call.
+3. More fucntions need to follow for performing other fucntions.
 
 After completion, it is expected that,
 ```
