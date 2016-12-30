@@ -1,5 +1,8 @@
 # Infiny
-Send infinite number of custom messages using WhatsApp Web
+WhatsApp Web automation using javascript
+
+
+###Currently only sending messages is supported. Need to create fucntions for performing all operations on WhatsApp Web.
 
 ##Usage
 Open WhatsApp Web. Open the chat with the contact that you to send the message. Copy the complete code in 'infiny.js' to the javascript console (Use Ctrl+Shift+I in Google Chrome)  and hit enter.
