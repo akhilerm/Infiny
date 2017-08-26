@@ -6,7 +6,7 @@ for(var i=0;i<10;i++){
 		for(var j = 0; j < 10; j++) {
   			input.innerHTML = "Blah";
     			input.dispatchEvent(new Event('input', {bubbles: true}));
-			var button = document.querySelector('.block-compose button.icon-send');
+			var button = document.querySelector('button.compose-btn-send');
 			button.click();
 		}
 	},1000);}
