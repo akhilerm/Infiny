@@ -13,7 +13,7 @@ selectContact("Mommy")
 ```
 Then send a message to the contact with
 
-```
+``` javascript
 
 sendMessage("Hey mommy, i can use the console!")
 
