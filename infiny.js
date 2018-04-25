@@ -12,7 +12,7 @@ function triggerMouseEvent(node, eventType) {
 }
 
 function getChatname(){
-    $("#pane-side > div > div > div").find("._25Ooe > ._1wjpf").each(function(){
+    $("#side > div > div > div").find("._25Ooe > ._1wjpf").each(function(){
         console.log($(this).text())
         contacts.push($(this).text());
         chat_div.push($(this));
