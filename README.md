@@ -1,3 +1,7 @@
+# NOTE : ARCHIVING THE PROJECT
+The project is going to be archived as I am not able to actively maintain it, and the whatsapp web code have changed a lot.
+
+
 # Infiny
 WhatsApp Web automation using javascript
 
